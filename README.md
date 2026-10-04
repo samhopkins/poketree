@@ -5,9 +5,9 @@
 **[AVL trees](https://en.wikipedia.org/wiki/AVL_tree)**, and
 **[binary heaps](https://en.wikipedia.org/wiki/Heap_(data_structure))**.
 
-## [Try It Out!](https://edemaine.github.io/poketree/)
+## [Try It Out!](https://www.samuelbhopkins.com/poketree/)
 
-[![Screenshot of PokeTree showing the starting binary tree of Squirtle (7), Pikachu (25), Jigglypuff (39), and Tangela (114), and an input of "add polygon"](screenshot.jpg)](https://edemaine.github.io/poketree/)
+[![Screenshot of PokeTree showing the starting binary tree of Squirtle (7), Pikachu (25), Jigglypuff (39), and Tangela (114), and an input of "add polygon"](screenshot.jpg)](https://www.samuelbhopkins.com/poketree/)
 
 ## Usage
 
